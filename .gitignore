@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# YOLO weights
+*.pt
+
+# Dataset directories (assumed large or private)
+ditm/
+skin-diseases-1/
+
+# Results and outputs
+results/
+
+# Virtual environment (if created inside project)
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# Dataset annotations
+coco.txt
+
+# Jupyter notebooks (optional if not versioned)
+*.ipynb
