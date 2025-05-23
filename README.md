@@ -35,18 +35,18 @@ This is a deep learning web application designed to detect **skin diseases** fro
 
 ## Sample Images In Data Set
 
-![Data set Sample images](Images_Git\dataset.png)
+![Data set Sample images](Images_Git/dataset.png)
 
 ## User Interface
 
-![UI](Images_Git\UI.png)
+![UI](Images_Git/UI.png)
 
 ## 🖼️ Sample Input and Output
 
-![Input Image](Images_Git\SampleDet.png)
+![Input Image](Images_Git/SampleDet.png)
 
-![Input Image 2](Images_Git\No_dis.png)
+![Input Image 2](Images_Git/No_dis.png)
 
 ## 💊Suggested medicines
 
-![Suggested medicines](Images_Git\image.png)
+![Suggested medicines](Images_Git/image.png)
